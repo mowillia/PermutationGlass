@@ -1,2 +1,2 @@
 # permutation_code
-Code for "Permutation Glass" paper
+Contains simulation and plotting code for "Permutation Glass" paper

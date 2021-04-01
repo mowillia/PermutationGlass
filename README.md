@@ -1,8 +1,12 @@
 # Permutation Glass
 
 <p align="center">
-<img align = "center" src = "https://user-images.githubusercontent.com/8810308/111638380-a53b3400-87d0-11eb-9407-78a613cdd922.png"  onmouseover= "Motivation for statistical physics based algorithm" width = "75%">
+<img align = "center" src = "https://user-images.githubusercontent.com/8810308/113324254-e8bf9300-92e4-11eb-8323-002351b793c7.png"  onmouseover= "Permutation graph depiction of microstates" width = "40%">
+  <img align = "center" src = "https://user-images.githubusercontent.com/8810308/113324254-e8bf9300-92e4-11eb-8323-002351b793c7.png"  onmouseover= "Permutation graph depiction of microstates" width = "40%">
 </p>
+
+![image](https://user-images.githubusercontent.com/8810308/113324254-e8bf9300-92e4-11eb-8323-002351b793c7.png)
+
 
 The Knapsack Problem is a classic problem from combinatorial optimization. In the "0-1" version of the problem, we are given N objects each of which has a value and a weight, and our objective is to find the collection of objects that maximizes the total value of the collection while ensuring that the weight remain under a given maximum. 
 

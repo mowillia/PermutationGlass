@@ -1,8 +1,8 @@
 # Permutation Glass
 
 <p align="center">
-<img align = "center" src = "https://user-images.githubusercontent.com/8810308/113324254-e8bf9300-92e4-11eb-8323-002351b793c7.png"  onmouseover= "Permutation graph depiction of microstates" width = "40%">
-  <img align = "center" src = "https://user-images.githubusercontent.com/8810308/113324506-2fad8880-92e5-11eb-971e-29c5a2a34ab9.png"  onmouseover= "Permutation graph depiction of microstates" width = "40%">
+<img align = "center" src = "https://user-images.githubusercontent.com/8810308/113324254-e8bf9300-92e4-11eb-8323-002351b793c7.png" width = "40%">
+  <img align = "center" src = "https://user-images.githubusercontent.com/8810308/113324506-2fad8880-92e5-11eb-971e-29c5a2a34ab9.png" width = "40%">
 </p>
 
 

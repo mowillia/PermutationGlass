@@ -17,7 +17,7 @@ We can use two figures to depict the permutation glass schematically:
 
 The left figure is a ["permutation graph"](https://en.wikipedia.org/wiki/Permutation_graph) depiction of four microstates in a permutation system with _N_=15. In each graph, _j_ is equivalent to the number of diagonal lines in the permutation graph. The number of "correct" connections are shown as vertical lines. The right figure is a "matching problem" depiction of a _j_=10 microstate for a _2N_ = 30 permutation system. The spatial location of each pair is not important in determining the energy of the state. For this state, the matching pairs are 3, 6, 11, 14, and 15. 
  
- This respository contains the notebooks that reproduce the results of the paper ["Permutation glass"](https://arxiv.org/pdf/1801.03231.pdf).
+ This respository contains the notebooks that reproduce the results of the [associated paper](https://arxiv.org/pdf/1801.03231.pdf).
 
 
 ## Reproducing figures and tables

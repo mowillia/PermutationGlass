@@ -24,11 +24,9 @@ The left figure is a ["permutation graph"](https://en.wikipedia.org/wiki/Permuta
 
 The notebooks that reproduce the figures and tables in the paper are as follows
 
-- [`potential_landscape.ipynb`](https://github.com/mowillia/largeNKP/blob/main/potential_landscape.ipynb): Reproduces Figure 2(a); Runs in < 1 minute
-- [`total_value_vs_temperature.ipynb`](https://github.com/mowillia/largeNKP/blob/main/total_value_vs_temperature.ipynb): Reproduces Figure 2(b); Runs in < 1 minute
-- [`algorithm_comparisons.ipynb`](https://github.com/mowillia/largeNKP/blob/main/algorithm_comparisons.ipynb): Reproduces Figure 3; Runs in 15 minutes
-- [`limit_ratio_vs_temperature.ipynb`](https://github.com/mowillia/largeNKP/blob/main/limit_ratio_vs_temperature.ipynb): Reproduces Table 1; Runs in < 1 minute
-- [`failure_modes.ipynb`](https://github.com/mowillia/largeNKP/blob/main/failure_modes.ipynb): Gives examples of "Failure Modes" discussed in Appendix
+- [`potential_landscape.ipynb`](https://github.com/mowillia/largeNKP/blob/main/potential_landscape.ipynb): Reproduces Figure 3; Runs in < 1 minute
+- [`total_value_vs_temperature.ipynb`](https://github.com/mowillia/largeNKP/blob/main/total_value_vs_temperature.ipynb): Reproduces Figure 4; Runs in < XX minutes
+- [`algorithm_comparisons.ipynb`](https://github.com/mowillia/largeNKP/blob/main/algorithm_comparisons.ipynb): Reproduces Figure 5; Runs in < 1 minute
 
 
 ## References

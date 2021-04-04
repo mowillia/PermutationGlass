@@ -24,9 +24,9 @@ The left figure is a ["permutation graph"](https://en.wikipedia.org/wiki/Permuta
 
 The notebooks that reproduce the figures and tables in the paper are as follows
 
-- [`temp_vs_signorm.ipynb`](https://nbviewer.jupyter.org/github.com/mowillia/PermutationGlass/blob/main/temp_vs_signorm.ipynb): Reproduces Figure 3; Runs in < 1 sec
-- [`perm_glass_simulation.ipynb`](https://nbviewer.jupyter.org/github.com/mowillia/PermutationGlass/blob/main/perm_glass_simulation.ipynb): Reproduces Figure 4; Runs in < 5 minutes
-- [`prob_neglambda_vs_N.ipynb`](https://nbviewer.jupyter.org/github.com/mowillia/PermutationGlass/blob/main/prob_neglambda_vs_N.ipynb): Reproduces Figure 5; Runs in < 1 sec
+- [`temp_vs_signorm.ipynb`](https://nbviewer.jupyter.org/github/mowillia/PermutationGlass/blob/master/temp_vs_sigmanorm.ipynb): Reproduces Figure 3; Runs in < 1 sec
+- [`perm_glass_simulation.ipynb`](https://nbviewer.jupyter.org/github.com/mowillia/PermutationGlass/blob/master/perm_glass_simulation.ipynb): Reproduces Figure 4; Runs in < 5 minutes
+- [`prob_neglambda_vs_N.ipynb`](https://nbviewer.jupyter.org/github.com/mowillia/PermutationGlass/blob/master/prob_neglambda_vs_N.ipynb): Reproduces Figure 5; Runs in < 1 sec
 
 
 ## References

@@ -30,7 +30,7 @@ The notebooks that reproduce the figures and tables in the paper are as follows
 
 
 ## References
-[1] Williams, Mobolaji. "Permutation glass." *Physical Review E* 97.1 (2018): 012139. [[arXiv pre-print]](https://arxiv.org/pdf/1801.03231.pdf)
+[1] Williams, Mobolaji. "Permutation glass." *Physical Review E* 97.1 (2018): 012139. 
 
 ---
 ```
